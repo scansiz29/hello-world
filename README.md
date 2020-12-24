@@ -2,4 +2,4 @@
 an example
 hi 
 bunu deneme amaçlı yazıyorum.
-I like :pizze and :coffee
+I like :pizza: and :coffee:
